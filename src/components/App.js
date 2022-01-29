@@ -19,12 +19,10 @@ function Home() {
 function About() {
   return(
     <div id="about">
-      About Me
+      <h1>About</h1>
     </div>
   )
 }
-{/* write an <About> component here */}
-
 
 function App() {
   return (
